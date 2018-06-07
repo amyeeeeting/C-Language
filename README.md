@@ -1,2 +1,2 @@
 # C-Language
-Programming Language homework
+Programming Language Homework
